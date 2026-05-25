@@ -1,19 +1,19 @@
 {
-    "version": "0.6.0",
+    "version": "0.6.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/paperzilla-ai/pz/releases/download/v0.6.0/pz_windows_amd64.zip",
+            "url": "https://github.com/paperzilla-ai/pz/releases/download/v0.6.1/pz_windows_amd64.zip",
             "bin": [
                 "pz.exe"
             ],
-            "hash": "2105415c5e4e591f05d505a6f4bebfe71426cc02ca4f9fc5299e54055f120f23"
+            "hash": "5101078ad6ee723d14fe34217fee0d2bed85bc3ee91762d3594cdc27e42ec561"
         },
         "arm64": {
-            "url": "https://github.com/paperzilla-ai/pz/releases/download/v0.6.0/pz_windows_arm64.zip",
+            "url": "https://github.com/paperzilla-ai/pz/releases/download/v0.6.1/pz_windows_arm64.zip",
             "bin": [
                 "pz.exe"
             ],
-            "hash": "6449fbee7b6b25b09188d5fec33ad08dd49afa0fb130ae3501d2f9f26106cb93"
+            "hash": "1b2253a2b070e7291756e56f83dbe2935e9559ecdf782f5279a35c11f1b6e720"
         }
     },
     "homepage": "https://paperzilla.ai",
